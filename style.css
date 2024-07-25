@@ -1,0 +1,45 @@
+body{
+    background-image:url(https://th.bing.com/th/id/R.9d019a1c185b58e86c881351da39e2c8?rik=dbxBRy8pY%2fnQhQ&riu=http%3a%2f%2fwww.wrbh.org%2fwp-content%2fuploads%2f2015%2f06%2fBooks2.jpg&ehk=pv52Kd3IlgKH%2bN9SNsFgaiY0DLUIzbJr3PSstpneRo8%3d&risl=&pid=ImgRaw&r=0) ;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+}
+#a1{
+    background-image:radial-gradient(purple,white) ;
+    width:80%
+}
+#a2{
+    margin-left:20% ;
+}
+table{
+    border:2px solid black ;
+    border-collapse:collapse ;
+    width:100%
+}
+th,td{
+    border:2px solid black;
+}
+#a3{
+    background-image:radial-gradient(purple,white) ;
+    width:80%
+}
+#a4{
+    margin-left:20% ;
+}
+#a5{
+    background-image:radial-gradient(purple,white) ;
+    width:80%
+}
+#a6{
+    margin-left:20% ;
+}
+input{
+    width:98% ;
+}
+button{
+    width:100% ;
+    color:white ;
+    background-color: black;
+}
+button:hover{
+    background-color:grey ;
+}
